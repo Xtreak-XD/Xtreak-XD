@@ -1,13 +1,3 @@
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xtreak-XD/Xtreak-XD/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xtreak-XD/Xtreak-XD/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Xtreak-XD/Xtreak-XD/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h1 align="left">👋 Hi, I'm Miguel Avila</h1>
 
 ###
@@ -43,6 +33,14 @@
 ###
 
 <p align="left">- 🧠 Mentor Me Collective x Grow with Google Scholar<br>- 👨‍🏫 Learning Assistant @ FIU  <br>  Helping 80+ students learn programming fundamentals in Java through one-on-one and group support.<br>- 💡Member of INIT @ FIU  <br>Collaborating on team projects, attending workshops, and contributing as a Co-Lead for the Beginner Web Development DuelDot Build Team.</p>
+
+###
+
+<h2 align="left">🏆 Achievements</h2>
+
+###
+
+<p align="left">- 🎓 FIU Honors College | 3.9 GPA  <br>- 🏅 2x Dean’s List Recipient (Spring 2025) <br>- 💬 INIT (FIU Tech Org) Build Team Co-Lead</p>
 
 ###
 
@@ -82,26 +80,6 @@
 
 ###
 
-<h2 align="left">🏆 Achievements</h2>
-
-###
-
-<p align="left">- 🎓 FIU Honors College | 3.9 GPA  <br>- 🏅 2x Dean’s List Recipient (Spring 2025) <br>- 💬 INIT (FIU Tech Org) Build Team Co-Lead</p>
-
-###
-
-<h2 align="left">🤝 Let's Connect!</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/miguelavila10/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <h1 align="left">📈My Stats</h1>
 
 ###
@@ -120,6 +98,18 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xtreak-XD&radius=16&theme=nightowl&area=true&order=5&custom_title=My%20Contributions&hide_border=false" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h2 align="left">🤝 Let's Connect!</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/miguelavila10/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
