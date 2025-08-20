@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">- 🧠 Mentor Me Collective x Grow with Google Scholar<br>- 👨‍🏫 Learning Assistant @ FIU  <br>  Helping 80+ students learn programming fundamentals in Java through one-on-one and group support.<br>- 💡Member of INIT @ FIU  <br>Collaborating on team projects, attending workshops, and contributing as a Co-Lead for the Beginner Web Development DuelDot Build Team. <br>CodePath in Residence TechFellow</p>
+<p align="left">- 🧠 Mentor Me Collective x Grow with Google Scholar<br>- 👨‍🏫 Learning Assistant @ FIU  <br>  Helping 80+ students learn programming fundamentals in Java through one-on-one and group support.<br>- 💡Member of INIT @ FIU  <br>Collaborating on team projects, attending workshops, and contributing as a Co-Lead for the Beginner Web Development DuelDot Build Team. <br>- 🚀 CodePath in Residence TechFellow</p>
 
 ###
 
