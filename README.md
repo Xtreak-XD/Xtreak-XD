@@ -76,7 +76,7 @@
 
 ###
 
-<p align="left">🌐 Build and launch my personal portfolio website (no more excuses!)<br>Learn more about database <br>Develop and launch a full stack application</p>
+<p align="left">Build and launch my personal portfolio website (no more excuses!)<br>Learn more about database <br>Develop and launch a full stack application</p>
 
 ###
 
