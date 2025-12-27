@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub! I'm a passionate software engineer-in-training and student at Florida International University. When I’m not studying or helping others as a Learning Assistant, you’ll find me crying over bugs I didn’t cause 😉. I love building things that challenge me and make an impact.</p>
+<p align="left">Welcome to my GitHub! I'm a passionate software engineer-in-training and student at Florida International University. I love building things that challenge me and make an impact. Sometimes I just create things and hope they come out good enough.</p>
 
 ###
 
