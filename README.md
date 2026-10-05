@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Learning Assistant | Full Stack Developer | Full-Time Student | Honors Student</h4>
+<h4 align="center">Teaching Assistant | Full Stack Developer | Full-Time Student | Honors Student</h4>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">- 🏐I am a middle in volleyball<br>- 🧤I play goalie in soccer<br>- 🎮I play Minecraft,  Rainbow Six Siege, Trackmania, and more<br>- 🧩 I can solve 3x3, 2x2, and pyramid Rubik’s cubes<br>-🐱 I live wth around 15 cats and more keep spawning (yes, really!)<br>-🎵 My favorite music to code to is indie rock</p>
+<p align="left">- 🏐I play middle in volleyball<br>- 🧤I play goalie in soccer<br>- 🎮I play Minecraft,  Rainbow Six Siege, Trackmania, and more<br>- 🧩 I can solve 3x3, 2x2, and pyramid Rubik’s cubes<br>-🐱 I live wth around 8 cats and more keep spawning (yes, really!)<br>-🎵 My favorite music to code to is indie rock</p>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">- 🧠 Mentor Me Collective x Grow with Google Scholar<br>- 👨‍🏫 Learning Assistant @ FIU  <br>  Helping 80+ students learn programming fundamentals in Java through one-on-one and group support.<br>- 💡Member of INIT @ FIU  <br>Collaborating on team projects, attending workshops, and contributing as a Co-Lead for the Beginner Web Development DuelDot Build Team. <br>- 🚀 CodePath in Residence TechFellow</p>
+<p align="left">- 🧠 Mentor Me Collective x Grow with Google Scholar<br>- 👨‍🏫 Teaching Assistant @ FIU  <br>  Helping 120+ students learn programming fundamentals in Java through one-on-one and group support.<br>- 💡Member of INIT @ FIU  <br>Collaborating on team projects, attending workshops, and contributing as a Co-Lead for the Beginner Web Development & Game Dev Build Team. <br>- 🚀 CodePath in Residence TechFellow</p>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">- 🎓 FIU Honors College | 3.95 GPA  <br>- 🏅 4x Dean’s List Recipient (Spring 2025) <br>- 💬 INIT (FIU Tech Org) Build Team Co-Lead</p>
+<p align="left">- 🎓 FIU Honors College | 3.94 GPA  <br>- 🏅 7x Dean’s List Recipient (Fall 2026) <br>- 💬 INIT (FIU Tech Org) Build Team Co-Lead</p>
 
 ###
 
